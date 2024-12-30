@@ -6,13 +6,20 @@ Overview
 This project is a dynamic e-commerce website designed to sell electric appliances, built using a combination of front-end and back-end technologies. The website offers a full shopping experience, including features such as user registration, login/authentication, personalized user data storage and editing, a shopping cart, and a checkout process.
 
 Technologies Used
+
+
 Front-End:
 HTML (Hypertext Markup Language): The backbone of the website, HTML is used to structure the content on each page, including product listings, categories, and user forms (registration, login, etc.).
 CSS (Cascading Style Sheets): CSS is employed to style the website, ensuring it’s visually appealing and responsive on different devices. It handles layout, colors, fonts, and positioning of elements.
 JavaScript: JavaScript adds interactivity to the website, enabling functionalities such as form validation, dynamically updating the shopping cart, and interactive product details.
+
+
 Back-End:
 PHP: PHP is used to manage the server-side logic, including user authentication (login/register), handling form submissions, processing the shopping cart, and managing database queries for product listings and user data.
 SQL/MariaDB: The database stores essential information, such as user accounts, product data, and transaction history. MariaDB is used for its robust relational database management system to ensure smooth and secure data handling.
+
+
+
 Features
 1. User Registration & Authentication:
 Users can create an account and log in to the site, allowing them to save their data for future purchases.
